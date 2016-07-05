@@ -7,6 +7,11 @@
 *All contributions welcome. Feel free to contribute. Please read the [guidelines](contributing.md) before contributing.*
 
 ## Table of Contents
+- [General Graph Drawing](#general-graph-drawing)
+- [Program Modeling](#program-modeling)
+- [Mind Mapping](#mind-mapping)
+- [Free Diagramming](#free-diagramming)
+- [Misc](#misc)
 
 ## General Graph Drawing
 
