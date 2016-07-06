@@ -30,6 +30,8 @@
 ## Mind Mapping
 
 - [XMind](http://www.xmind.net)
+- [iThoughts](http://toketaware.com/ithoughts-osx)
+- [Mindly](http://www.mindlyapp.com)
 
 
 ## Free Diagramming
