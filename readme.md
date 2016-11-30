@@ -10,6 +10,7 @@
 - [General Graph Drawing](#general-graph-drawing)
 - [Program Modeling](#program-modeling)
 - [Mind Mapping](#mind-mapping)
+- [Charts](#charts)
 - [Free Diagramming](#free-diagramming)
 - [Misc](#misc)
 
@@ -33,6 +34,11 @@
 - [iThoughts](http://toketaware.com/ithoughts-osx)
 - [Mindly](http://www.mindlyapp.com)
 
+## Charts
+
+- [Highcharts](http://www.highcharts.com)
+- [Raphaël](https://dmitrybaranovskiy.github.io/raphael/)
+- [echarts](http://echarts.baidu.com)
 
 ## Free Diagramming
 
