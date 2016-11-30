@@ -29,6 +29,7 @@
 - [PlantUML](http://plantuml.com)
     - [Online](https://www.planttext.com)
 - [ProcessOn](http://www.processon.com/)
+- [StarUML](http://staruml.io)
 - [gliffy](https://www.gliffy.com/)
 
 ## Mind Mapping
