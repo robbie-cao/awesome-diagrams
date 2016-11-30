@@ -27,6 +27,9 @@
 - [Graphviz](http://www.graphviz.org)
     - [DOT](http://www.graphviz.org/content/dot-language)
 - [PlantUML](http://plantuml.com)
+    - [Online](https://www.planttext.com)
+- [ProcessOn](http://www.processon.com/)
+- [gliffy](https://www.gliffy.com/)
 
 ## Mind Mapping
 
