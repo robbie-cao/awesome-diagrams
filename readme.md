@@ -49,6 +49,7 @@
 ## Misc
 
 - [D3.js](https://d3js.org)
+- [Mermaid](https://github.com/knsv/mermaid)
 
 ## License
 
