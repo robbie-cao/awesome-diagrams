@@ -21,6 +21,7 @@
 - [yEd](https://www.yworks.com/products/yed)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Visio](https://www.microsoftstore.com/store/msusa/en_US/cat/Visio/categoryID.69407600)
+- [Whimsical](https://whimsical.com/)
 
 ## Program Modeling
 
