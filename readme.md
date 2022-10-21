@@ -31,6 +31,8 @@
 - [ProcessOn](http://www.processon.com/)
 - [StarUML](http://staruml.io)
 - [gliffy](https://www.gliffy.com/)
+- [Azimutt](https://azimutt.app) - Explore, analyse and document real world databases
+    - [Open Source](https://github.com/azimuttapp/azimutt)
 
 ## Mind Mapping
 
