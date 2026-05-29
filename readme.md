@@ -48,6 +48,8 @@
 
 ## Free Diagramming
 
+- [Circuit Diagram Maker](https://circuitdiagrammaker.app) - Browser-based editor for circuit and wiring diagrams with auto-routing wires and PDF/SVG/PNG export. Free tier available.
+
 ## Misc
 
 - [D3.js](https://d3js.org)
