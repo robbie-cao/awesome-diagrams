@@ -48,6 +48,8 @@
 
 ## Free Diagramming
 
+- [Mermaid Online](https://mermaidonline.org/?utm_source=awesome-diagrams&utm_medium=github_awesome_list&utm_campaign=mo_backlink) - Browser-based Mermaid diagram previewer and exporter for PNG, SVG, JPG, WebP, and PDF assets.
+
 ## Misc
 
 - [D3.js](https://d3js.org)
