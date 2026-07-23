@@ -52,6 +52,7 @@
 
 - [D3.js](https://d3js.org)
 - [Mermaid](https://github.com/knsv/mermaid)
+- [MermaidEditor](https://mermaideditor.lol) - Free online Mermaid.js editor with live preview, templates, tutorials, and PNG/SVG export
 
 ## License
 
