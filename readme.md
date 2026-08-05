@@ -46,6 +46,11 @@
 - [Raphaël](https://dmitrybaranovskiy.github.io/raphael/)
 - [echarts](http://echarts.baidu.com)
 
+
+## AI Diagramming
+
+- [flow-chart.io](https://flow-chart.io) - AI diagram generator that outputs fully editable objects (not locked images). Generates BPMN, C4, UML, ERD, cloud architecture, DevOps pipeline, and STRIDE threat model diagrams from plain language. Every node and connector is live and editable.
+
 ## Free Diagramming
 
 ## Misc
