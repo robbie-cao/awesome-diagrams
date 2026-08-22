@@ -21,6 +21,7 @@
 - [yEd](https://www.yworks.com/products/yed)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Visio](https://www.microsoftstore.com/store/msusa/en_US/cat/Visio/categoryID.69407600)
+- [diagram.now](https://diagram.now/) - Free browser diagram editor for flowcharts, UML, BPMN, ERD, cloud architecture and wireframes, with a Confluence Cloud app.
 
 ## Program Modeling
 
