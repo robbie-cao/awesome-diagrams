@@ -39,6 +39,7 @@
 - [XMind](http://www.xmind.net)
 - [iThoughts](http://toketaware.com/ithoughts-osx)
 - [Mindly](http://www.mindlyapp.com)
+- [MonoMap](https://monomap.app)
 
 ## Charts
 
